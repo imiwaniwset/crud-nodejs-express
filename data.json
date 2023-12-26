@@ -1,98 +1,26 @@
 [
   {
     "id": 1,
-    "first_name": "Melamie",
-    "last_name": "Fripp",
+    "name": "Fripp",
     "position": "backend",
-    "salary": "10000000",
-    "join_year": 2017
-  },
-  {
-    "id": 2,
-    "first_name": "Annamaria",
-    "last_name": "Ion",
-    "position": "bakcend",
-    "salary": "10000000",
-    "join_year": 2016
+    "salary": 10000000
   },
   {
     "id": 3,
-    "first_name": "Ailina",
-    "last_name": "Vankov",
+    "name": "Vankov",
     "position": "frontend",
-    "salary": "9000000",
-    "join_year": 2010
+    "salary": 9000000
   },
   {
     "id": 4,
-    "first_name": "Skell",
-    "last_name": "Cheesman",
-    "position": "frontend",
-    "salary": "9000000",
-    "join_year": 2019
+    "name": "nurul",
+    "position": "backend",
+    "salary": "9000000"
   },
   {
     "id": 5,
-    "first_name": "Eugenio",
-    "last_name": "Eastham",
-    "position": "backend",
-    "salary": "10000000",
-    "join_year": 2016
-  },
-  {
-    "id": 6,
-    "first_name": "Carey",
-    "last_name": "Buttler",
-    "position": "ui/ux",
-    "salary": "7000000",
-    "join_year": 2017
-  },
-  {
-    "id": 7,
-    "first_name": "Nathalia",
-    "last_name": "Bissill",
-    "position": "ui/ux",
-    "salary": "7000000",
-    "join_year": 2016
-  },
-  {
-    "id": 8,
-    "first_name": "Dulce",
-    "last_name": "Fawdrie",
+    "name": "iwan",
     "position": "frontend",
-    "salary": "9000000",
-    "join_year": 2018
-  },
-  {
-    "id": 9,
-    "first_name": "Maurie",
-    "last_name": "Sturm",
-    "position": "fullstack",
-    "salary": "12000000",
-    "join_year": 2019
-  },
-  {
-    "id": 10,
-    "first_name": "Lyssa",
-    "last_name": "Sexton",
-    "position": "frontend",
-    "salary": "9000000",
-    "join_year": 2020
-  },
-  {
-    "id": 11,
-    "first_name": "iwan",
-    "last_name": "setiawan",
-    "position": "CEO",
-    "salary": "2000000",
-    "join_year": "2020"
-  },
-  {
-    "id": 12,
-    "first_name": "iwan",
-    "last_name": "setiawan",
-    "position": "CEO",
-    "salary": "2000000",
-    "join_year": "2020"
+    "salary": 1000000
   }
 ]

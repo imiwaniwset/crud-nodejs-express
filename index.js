@@ -1,8 +1,8 @@
 const command = process.argv[2]
-// console.log(command);
 const params = process.argv.slice(3)
 
 const Controller = require('./controller/Controller')
+// console.log(params, "ini parameter");
 
 if (command === "show") {
   Controller.showAll()
@@ -11,5 +11,5 @@ if (command === "show") {
 } else if (command === "delete") {
   Controller.removeData(params)
 } else if (command === "update") {
-  Controller.filter(params)
+  Controller.updateData(params)
 }
